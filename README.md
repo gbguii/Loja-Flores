@@ -9,4 +9,4 @@
 
 ![](flores.gif)
 
-<p>No gif não apareceu as opções do menu.</p>
+<p>*No gif não apareceu as opções do menu.</p>
