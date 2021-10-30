@@ -7,6 +7,9 @@
 <p>HTML</p>
 <p>CSS</p>
 
+<h2>Link para testar o site</h2>
+<p>https://floresfolder.netlify.app/</p>
+
 ![](flores.gif)
 
 <p>*No gif não apareceu as opções do menu.</p>
